@@ -1,7 +1,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 ### Hello World! 👋 
-I'm EonSeok Jeon from Korea 🇰🇷.
+I'm EonSeok Jeon from Korea 🇰🇷
 <br />
 Majoring in Computer Science at Kyung Hee University 🏛️
 
@@ -12,11 +12,12 @@ Majoring in Computer Science at Kyung Hee University 🏛️
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
 </p>
 
 <h3>my github stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eonseok-jeon&show_icons=true&theme=gotham" alt="eonseok-jeon" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eonseok-jeon&show_icons=true&theme=gotham" alt="eonseok-jeon" />&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eonseok-jeon&theme=gotham" alt="eonseok-jeon" />&nbsp;</p>
+
   
 <h3>Ongoing projects</h3>
 <table>
