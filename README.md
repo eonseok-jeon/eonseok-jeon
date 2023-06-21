@@ -35,13 +35,6 @@ Majoring in Computer Science at Kyung Hee University 🏛️
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/Dcom-KHU/nearbuy-frontend"><b>Near Buy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Dcom-KHU/nearbuy-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Dcom-KHU/nearbuy-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Dcom-KHU/nearbuy-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Dcom-KHU/nearbuy-frontend?style=flat-square&labelColor=343b41"/></td>
-    </tr>
   </tbody>
 </table>
 
