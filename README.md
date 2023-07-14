@@ -9,6 +9,7 @@ Majoring in Computer Science at Kyung Hee University 🏛️
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="SASS" src ="https://img.shields.io/badge/SASS-cc6699.svg?&style=flat-square&logo=sass&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -35,6 +36,13 @@ Majoring in Computer Science at Kyung Hee University 🏛️
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://github.com/stockOneQ/front"><b>Stock One Q</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
