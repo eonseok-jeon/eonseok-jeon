@@ -43,6 +43,13 @@ Majoring in Computer Science at Kyung Hee University 🏛️
       <td><img alt="Issues" src="https://img.shields.io/github/issues/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/stockOneQ/front?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Kong/insomnia"><b>Insomnia</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kong/insomnia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kong/insomnia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kong/insomnia?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kong/insomnia?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
