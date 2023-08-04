@@ -54,13 +54,18 @@ Majoring in Computer Science at Kyung Hee University 🏛️
 </table>
 
 <h3>Where to find me</h3>
+<a href="https://eonseok-jeon.github.io">
+
+  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+  github pages
+</a>
 <a href="https://www.instagram.com/___seeeok/">
-  <img align="left" alt="eonseok's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="eonseok's Instagram" width="45px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<br /><br /><br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=eonseok-jeon.eonseok-jeon)
+
+<br /><br /><br />
 
 <!--
 **eonseok-jeon/eonseok-jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
