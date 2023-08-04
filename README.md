@@ -54,11 +54,9 @@ Majoring in Computer Science at Kyung Hee University 🏛️
 </table>
 
 <h3>Where to find me</h3>
-<a href="https://eonseok-jeon.github.io">
 
-  [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-  github pages
-</a>
+[![My Skills](https://skillicons.dev/icons?i=github)](https://eonseok-jeon.github.io)
+github pages
 <a href="https://www.instagram.com/___seeeok/">
   <img align="left" alt="eonseok's Instagram" width="45px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
