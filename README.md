@@ -23,7 +23,6 @@ Majoring in Computer Science at Kyung Hee University 🏛️
 
 <h3>My github stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=eonseok-jeon&show_icons=true&theme=gotham" alt="eonseok-jeon" />&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eonseok-jeon&theme=gotham" alt="eonseok-jeon" />&nbsp;</p>
 
 
 <!--
